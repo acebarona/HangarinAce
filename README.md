@@ -39,6 +39,16 @@ python manage.py migrate
 ### 4. Create a Superuser
 python manage.py createsuperuser
 
+
+**Name:** **A-Cheshire Barona**  
+**Email:** **202280224@psu.palawan.edu.ph**
+
+### Connect with me
+
+<a href="https://www.facebook.com/share/17MMQxVqrN">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="40">
+</a>
+
 ### 5. Populate with Demo Data (Optional)
 python manage.py populate_hangarin
 
