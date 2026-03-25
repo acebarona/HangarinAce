@@ -1,10 +1,10 @@
-# 📋 Hangarin (Task Management System)
+# Hangarin (Task Management System)
 
 Hangarin is a modern, high-contrast Task Management Dashboard built with **Django**. It helps students and professionals organize their daily goals with subtasks, category filtering, and real-time efficiency tracking.
 
 ---
 
-## ✨ Features
+##  Features
 
 *   **Social Authentication**: Secure login using **Google** and **GitHub** via `django-allauth`.
 *   **Dynamic Dashboard**:
@@ -20,7 +20,7 @@ Hangarin is a modern, high-contrast Task Management Dashboard built with **Djang
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to set up the project locally on your machine:
 
