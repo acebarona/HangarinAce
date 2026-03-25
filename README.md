@@ -54,3 +54,17 @@ python manage.py populate_hangarin
 
 ### 6. Run the Server
 python manage.py runserver
+
+## About the Authors
+**Name:** **A-Cheshire Barona**  
+**Email:** **202280224@psu.palawan.edu.ph**
+
+### Connect with me
+
+<a href="https://www.facebook.com/share/17MMQxVqrN">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="40">
+</a>
+
+<a href="https://github.com/acebarona">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40">
+</a>
