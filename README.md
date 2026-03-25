@@ -39,7 +39,14 @@ python manage.py migrate
 ### 4. Create a Superuser
 python manage.py createsuperuser
 
+### 5. Populate with Demo Data (Optional)
+python manage.py populate_hangarin
 
+### 6. Run the Server
+python manage.py runserver
+
+
+## About the Authors
 **Name:** **A-Cheshire Barona**  
 **Email:** **202280224@psu.palawan.edu.ph**
 
@@ -49,8 +56,6 @@ python manage.py createsuperuser
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="40">
 </a>
 
-### 5. Populate with Demo Data (Optional)
-python manage.py populate_hangarin
-
-### 6. Run the Server
-python manage.py runserver
+<a href="https://github.com/acebarona">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40">
+</a>
